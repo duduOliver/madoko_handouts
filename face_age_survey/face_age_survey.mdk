@@ -13,6 +13,10 @@ with a focus on simplicity and plain text readability.
 * Explore the upper-right toolbox menu to discover how Markdown works. 
 * `Alt-Q` reformats the current paragraph.
 
+1. 这是一条测试
+2. GitHub会自动存不
+
+
 Enjoy!
 
 [reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
